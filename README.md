@@ -23,8 +23,6 @@ VERDADEIRO. A porcentagem máxima de diferença chega à 67,84%.
 FALSO. A maior diferença de preço fica entre casas com 3 e 4 quartos.
 ### Imóveis construídos até 1950 e que foram reformados tem preços 20% maiores do que os que não foram reformados, em média. 
 FALSO. A diferença fica em torno de 40%.
-### Os imóveis com vista para água se valorizam mais com o tempo. 
-FALSO. Os valores de anúncios nos dois anos analisados não apresentam diferença significativa.
 ### Imóveis com porão são 20% mais caros que imóveis sem porão. 
 VERDADEIRO. A diferença realmente fica em torno de 20%.
 ### É possível ter diferença de preços médios de imóveis de 10% entre meses devido à sazonalidade. 

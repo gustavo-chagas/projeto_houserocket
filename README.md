@@ -17,15 +17,15 @@ A empresa House Rocket Company é uma empresa de compra e venda de casas, o CEO 
 
 ## Insights do negócio
 
--Existem casas em boas condições com valor abaixo de 50% do valor da mediana da área. 
-VERDADEIRO.
--A diferença de preço mediano entre casas com 1 e 2 quartos é maior do que a diferença entre as outras quantidades de quartos. 
-FALSO.
--Imóveis construídos até 1950 e que foram reformados tem preços 20% maiores do que os que não foram reformados, em média. 
-FALSO.
--Os imóveis com vista para água se valorizam mais com o tempo. 
-FALSO.
--Imóveis com porão são 20% mais caros que imóveis sem porão. 
-VERDADEIRO.
--É possível ter diferença de preços médios de imóveis de 10% entre meses devido à sazonalidade. 
-VERDADEIRO.
+### Existem casas em boas condições com valor abaixo de 50% do valor da mediana da área. 
+VERDADEIRO. A porcentagem máxima de diferença chega à 67,84%.
+### A diferença de preço mediano entre casas com 1 e 2 quartos é maior do que a diferença entre as outras quantidades de quartos. 
+FALSO. A maior diferença de preço fica entre casas com 3 e 4 quartos.
+### Imóveis construídos até 1950 e que foram reformados tem preços 20% maiores do que os que não foram reformados, em média. 
+FALSO. A diferença fica em torno de 40%.
+### Os imóveis com vista para água se valorizam mais com o tempo. 
+FALSO. Os valores de anúncios nos dois anos analisados não apresentam diferença significativa.
+### Imóveis com porão são 20% mais caros que imóveis sem porão. 
+VERDADEIRO. A diferença realmente fica em torno de 20%.
+### É possível ter diferença de preços médios de imóveis de 10% entre meses devido à sazonalidade. 
+VERDADEIRO. Entre os meses de fevereiro e abril de 2015 a diferença ficou em torno de 10%.

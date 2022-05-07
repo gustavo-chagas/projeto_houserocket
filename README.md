@@ -27,3 +27,14 @@ FALSO. A diferença fica em torno de 40%.
 VERDADEIRO. A diferença realmente fica em torno de 20%.
 ### É possível ter diferença de preços médios de imóveis de 10% entre meses devido à sazonalidade. 
 VERDADEIRO. Entre os meses de fevereiro e abril de 2015 a diferença ficou em torno de 10%.
+
+## Resultados financeiros
+Ao final do notebook, foi construída uma lista com a recomendação de compra de 5 casas. Todas foram anunciadas em Novembro de 2014 (que é o segundo melhor mês para compras), não possuem porão, possuem 3 quartos cada e boas condições, além disso, foram construídas antes de 1950 e não foram reformadas. Todas da lista também estão abaixo do valor mediano de seu respectivo zipcode, as tornando opções atrativas para a compra.
+
+Caso a empresa deseje comprar todas as casas e revender nos meses de Abril ou Maio ao preço da mediana de zipcode, seria possível realizar um lucro de aproximadamente 216.355 dólares. Esse lucro ainda poderia ser aumentado, visto que essas casas possuem alto potencial de aumento de valor por meio de reformas, seja por meio da criação de um porão ou adição de um quarto. Segundo pesquisa, a adição de um porão ou quarto novo gira em torno de 50 a 60 mil dólares, em média, na cidade de Seattle, levando em conta esses custos e adicionando um valor de 30% sobre as casas na venda, o lucro líquido estimado subiria para 276.093 dólares.
+
+## Conclusão
+É possível concluir que no dado dataset existem boas oportunidades para a compra de casas, tanto para revenda simples como também para a agregação de valor por meio de reformas, de maneira que o time de negócios poderia tomar uma decisão melhor embasada sobre o negócio. Como o objetivo estabelecido do projeto é gerar insights e recomendar uma lista de recomendação de compra para ajudar a equipe de negócios, pode-se concluir que o projeto alcançou seu objetivo.
+
+## Próximos passos
+Aprender sobre algoritmos de Machine Learning para aplicar no dataset de maneira a obter as diferenças entre os valores previstos pelo algoritmo e os valores dos anúncios.
